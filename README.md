@@ -26,8 +26,8 @@ Front_end
 |한지윤|[Jiyoorin](https://github.com/Jiyoorin "Jiyoorin")|팀 리더, Front_end|Main Page, 회원가입 Page|
 
 > 주요기술
- 1. Java Spring Framework 사용 (MVC)
- 2. Mysql을 활용한 Database 관리
- 3. Kakao API OAuth를 활용한 로그인 구현
- 4. BCrypt를 활용한 password 암호화
+ 1. Java Spring Framework 사용 (MVC pattern)
+ 2. Mysql을 활용한 Database Management
+ 3. Kakao API OAuth를 활용한 소셜 로그인 구현
+ 4. BCrypt를 활용한 user password 암호화
  5. JavaMailSenderImpl를 활용한 메일 전송 자동화
